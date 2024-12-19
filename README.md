@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Intern Projects**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning ****
 
 - 👯 I’m looking to collaborate on **Open Sources Projects**
 
