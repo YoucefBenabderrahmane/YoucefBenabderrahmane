@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Youcef BENABDERRAHMANE</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youcefbenabderrahmane" alt="youcefbenabderrahmane" /></a> </p>
 
 - 🔭 I’m currently working on **Intern Projects**
 
-- 🌱 I’m currently learning ****
-
 - 👯 I’m looking to collaborate on **Open Sources Projects**
-
-- 💬 Ask me about **Java**
 
 - 📫 How to reach me **youcef.benabderrahmane@hotmail.com**
 
